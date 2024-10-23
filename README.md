@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Durga Venkata Phanindra Kumar Mulamreddy</h1>
 <h3 align="center">An Aspiring Data Scientist...</h3>
 
-- 🔭 I’m currently working on **AWS Cloud Solutions Architect**
+- 🔭 I’m currently working on **AWS Data Engineer**
 
-- 🌱 I’m currently learning **AWS, Docker, Kafka**
+- 🌱 I’m currently learning **AWS, Informatica, Kafka**
 
-- 💬 Ask me about **python, Machine Learning, AWS, Deep Learning, NLP, SQL, KAFKA**
+- 💬 Ask me about **python, Machine Learning, AWS, Deep Learning, NLP, SQL, KAFKA, HDFS**
 
 - 📫 How to reach me **venkatphanindra8@gmail.com**
 
