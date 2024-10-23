@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **venkatphanindra8@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Phanid221/portfolio/blob/main/Phani_Resume_1.pdf](https://github.com/Phanid221/portfolio/blob/main/Phani_Resume_1.pdf)
+- 📄 Know about my experiences [https://github.com/Phanid221/portfolio/blob/main/Phani_Resume_1.pdf](https://github.com/Phanid221/portfolio/blob/8184f07908006aa18b417e13dcefbf7d074ad8fa/Phani_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
