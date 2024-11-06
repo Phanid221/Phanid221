@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Durga Venkata Phanindra Kumar Mulamreddy</h1>
 <h3 align="center">An Aspiring Data Scientist...</h3>
 
-- 🔭 I’m currently working on **AWS Data Engineer**
+- 🔭 I’m currently working on **AWS Machine Learning Speciality**
 
 - 🌱 I’m currently learning **AWS, Informatica, Kafka**
 
-- 💬 Ask me about **python, Machine Learning, AWS, Deep Learning, NLP, SQL, KAFKA, HDFS**
+- 💬 Ask me about **python, Machine Learning, AWS, Deep Learning, NLP, SQL, KAFKA, HDFS, Pyspark**
 
-- 📫 How to reach me **venkatphanindra8@gmail.com**
+- 📫 How to reach me **mulamreddyp7@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Phanid221/portfolio/blob/main/Phani_Resume_1.pdf](https://github.com/Phanid221/portfolio/blob/8184f07908006aa18b417e13dcefbf7d074ad8fa/Phani_Resume.pdf)
 
