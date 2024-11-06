@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS, Informatica, Kafka**
 
+- 🌱 I’m a certified **AWS Data Engineer**
+
 - 💬 Ask me about **python, Machine Learning, AWS, Deep Learning, NLP, SQL, KAFKA, HDFS, Pyspark**
 
 - 📫 How to reach me **mulamreddyp7@gmail.com**
